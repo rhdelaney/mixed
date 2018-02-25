@@ -1,0 +1,63 @@
+#ifndef TYPES_CS403
+#define TYPES_CS403
+
+extern char *STATEMENTLIST;
+extern char *WHILESTATEMENT;
+extern char *IFSTATEMENT;
+extern char *JOIN;
+extern char *INIT;
+extern char *ARRAY;
+extern char *FUNCCALL;
+extern char *FUNCDEF;
+extern char *ARRAYCALL;
+extern char *EXPRESSIONLIST;
+extern char *PARAMLIST;
+extern char *ENV;
+extern char *VALUES;
+extern char *BUILTIN;
+extern char *CLOSURE;
+extern char *THUNK;
+extern char *LAMBDA;
+extern char *IF;
+extern char *ELIF;
+extern char *ELSE;
+extern char *VAR;
+extern char *BAD_LEX;
+extern char *WHILE;
+extern char *STRING;
+extern char *INTEGER;
+extern char *NIL;
+extern char *ID;
+extern char *OBRACE;
+extern char *CBRACE;
+extern char *COMMA;
+extern char *OBRACKET;
+extern char *CBRACKET;
+extern char *OPAREN;
+extern char *CPAREN;
+extern char *SEMI;
+extern char *PERIOD;
+extern char *END_OF_INPUT;
+extern char *MINUS;
+extern char *INCREMENT;
+extern char *TIMES;
+extern char *PLUS;
+extern char *DECREMENT;
+extern char *DIVIDE;
+extern char *EXP;
+extern char *MOD;
+extern char *GREATER_THAN;
+extern char *GREAT_EQ;
+extern char *LESS_THAN;
+extern char *LESS_EQ;
+extern char *EQUAL;
+extern char *NOT_EQUAL;
+extern char *STRICT_EQ;
+extern char *STRICT_NEQ;
+extern char *OR;
+extern char *AND;
+extern char *NOT;
+extern char *ASSIGN;
+extern char *XOR;
+
+#endif

@@ -1,0 +1,14 @@
+var fib = function{n} [
+  else{n == 0 && n == 1} [
+    n;
+  ] if [
+    fib{n+1} - fib{n+2};
+  ]
+];
+
+var x = 0;
+while{x != 10} [
+  //print{x,"\n"};
+  println{"Fib ",x,": ",fib{x}};
+  x = x - 1;
+]
