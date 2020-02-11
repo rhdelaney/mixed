@@ -73,4 +73,4 @@ Oh, operators don't have precedence btw, sorry I'm so fuckin lazy
 ||: And (I still apologize for everything in my life)
 ^: Xor
 
-Oh btw my program is literally trash, I couldn't get my dictionary to work in my own lange
+Oh btw my program is literally trash, I couldn't get my dictionary to work in my own language
